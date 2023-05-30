@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holan-3-x)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holan-3-x&theme=darcula&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holan-3-x&layout=donut)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <!--
