@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="#">
     <h1>Robotic & Embbeded</h1>
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,qt,raspberrypi,ros,py,rust" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,c,qt,raspberrypi,ros,py,rust" />
     <h1>Web DEV</h1>
-    <img src="https://skillicons.dev/icons?i=js,html,css,cloudflare,firebase,laravel,nginx,nodejs,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=ts,js,jquery,html,css,cloudflare,firebase,laravel,nginx,nodejs,php,mysql," />
     <h2>Mobile</h2>
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,bash,androidstudio,selenium,unreal,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,bash,androidstudio,selenium,unreal,unity,vscode,cmake,blender" />
   </a>
 </p>
 <br>
@@ -35,12 +35,10 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary># I’m currently learning!</summary>
+<summary><h2> I’m currently learning!</h2></summary>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,flask,gtk," />
-  </a>
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,flask,gtk,mongodb,pytorch,solidjs,svelte,threejs,tensorflow,go" />
 </p>
 </details>
 
