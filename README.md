@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary>I’m currently learning!</summary>
+<summary># I’m currently learning!</summary>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
