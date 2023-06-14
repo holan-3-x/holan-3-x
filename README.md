@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 </p>
 </details>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holan-3-x&theme=darcula&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holan-3-x&layout=donut&theme=darcula)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holan-3-x&theme=darcula&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holan-3-x&layout=donut&theme=darcula)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+</div>
 
 
