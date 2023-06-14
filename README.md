@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <h2>Robotic & Embbeded</h2>
+    <h1>Robotic & Embbeded</h1>
     <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,ae,git,bash,dart,firebase,flutter," />
     <h2>Web DEV</h2>
     <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,ae,git,bash,dart,firebase,flutter," />
