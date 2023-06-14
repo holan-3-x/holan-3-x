@@ -1,4 +1,4 @@
-### Hi there 👋
+#I am **Holan**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holan-3-x&theme=darcula&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holan-3-x&layout=donut&theme=darcula)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -16,3 +16,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="#">
+    ##Broad Way
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,ae,git,bash,dart,firebase,flutter," />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,ae,git,bash,dart,firebase,flutter," />
+  </a>
+</p>
+
+
+<details>
+<summary>I’m currently learning!</summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,flask,gtk," />
+  </a>
+</p>
+</details>
