@@ -1,5 +1,5 @@
 # I am **Holan**
-
+### I had been invloved to below knowledges, which was amazing to know!
 <!--
 **holan-3-x/holan-3-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,bash,androidstudio,selenium,unreal,vscode" />
   </a>
 </p>
-
+<br>
 <img src="https://skillicons.dev/icons?i=linux" />
 ##  That's what makes Linux so good: you put in something, and that effort multiplies. It's a positive feedback cycle.
 # [Linus Torvalds]
