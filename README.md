@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-   
     <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,ae,git,bash,dart,firebase,flutter," />
     <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,ae,git,bash,dart,firebase,flutter," />
   </a>
