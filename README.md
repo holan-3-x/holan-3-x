@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <img src="https://skillicons.dev/icons?i=linux" />
 
-##  That's what makes Linux so good: you put in something, and that effort multiplies. It's a positive feedback cycle. # [Linus Torvalds]
+##  That's what makes Linux so good: you put in something, and that effort multiplies. It's a positive feedback cycle.  [Linus Torvalds]
 
 
 
