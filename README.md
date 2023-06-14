@@ -18,13 +18,19 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="#">
     <h1>Robotic & Embbeded</h1>
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,ae,git,bash,dart,firebase,flutter," />
-    <h2>Web DEV</h2>
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,ae,git,bash,dart,firebase,flutter," />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,qt,raspberrypi,ros,py,rust" />
+    <h1>Web DEV</h1>
+    <img src="https://skillicons.dev/icons?i=js,html,css,cloudflare,firebase,laravel,nginx,nodejs,php,mysql" />
     <h2>Mobile</h2>
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,c,cmake,ae,git,bash,dart,firebase,flutter," />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,bash,androidstudio,selenium,unreal,vscode" />
   </a>
 </p>
+
+<img src="https://skillicons.dev/icons?i=linux" />
+##  That's what makes Linux so good: you put in something, and that effort multiplies. It's a positive feedback cycle.
+# [Linus Torvalds]
 
 
 <details>
