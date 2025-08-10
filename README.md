@@ -1,5 +1,5 @@
-# I am **Holan**
-### I had been invloved to below knowledges, which was amazing to know!
+# I am **Holan** Hello
+<!-- ### I had been invloved to below knowledges, which was amazing to know!
 <!--
 **holan-3-x/holan-3-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <p align="center">
   <a href="#">
     <h1>Robotic & Embbeded</h1>
